@@ -1,0 +1,88 @@
+body{
+    /* background-color: brown; */
+    /* color: burlywood; */
+    background-image: url("beans.jpg");
+    font-family: sans-serif;
+    padding: 20px;
+}
+h1{
+    font-size: 40px;
+    margin-top: 0%;
+    margin-bottom: 15px;
+}
+h2{
+    font-size: 30px;
+    margin-bottom: 0%;
+}
+h1,h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+hr{
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+.menu{
+  /* width: 80%; */
+  background-color: burlywood;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+
+}
+
+.item p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.flavor{
+    text-align: left;
+    width: 75%;
+}
+.price{
+    text-align: right;
+    width: 25%;
+}
+
+
+.cafename{
+    text-align: center;
+}
+.cafeest{
+    text-align: center;
+    font-style: italic;
+}
+.coffee{
+    text-align: center;
+}
+.bottom-line {
+    margin-top: 25px;
+}
+/* foorter */
+footer{
+  font-size: 14px;
+}
+footer a{
+    color: brown;
+}
+a:visited{
+    color: black;
+}
+a:hover{
+    color: brown;
+}
+a:active{
+    color: white;
+}
+.address{
+    margin-bottom: 5px;
+}
+.photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
